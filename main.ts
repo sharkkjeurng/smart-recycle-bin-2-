@@ -1,0 +1,2 @@
+huskylens2.I2CInit()
+huskylens2.switchAlgorithm(huskylens2.Algorithm.AlgorithmSelfLearningClassification)
